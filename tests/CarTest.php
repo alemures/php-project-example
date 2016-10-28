@@ -12,7 +12,7 @@ class CarTest extends TestCase {
     public function testStartEngine() {
         $fiat = new Car('Fiat', '500');
         $fiat->startEngine();
-        $this->assertTrue(true, $fiat->isStarted());
+        $this->assertTrue($fiat->isStarted());
     }
 
     public function testToString() {
