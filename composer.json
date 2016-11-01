@@ -1,6 +1,6 @@
 {
     "name": "alemures/php-project-example",
-    "description": "This is the structure for a Node.js project.",
+    "description": "This is the structure for a PHP project using composer.",
     "type": "library",
     "license": "MIT",
     "authors": [
